@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
+
+# Python
+api/.venv/
+api/**/__pycache__/
+*.pyc
+
+# Node / Expo
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/

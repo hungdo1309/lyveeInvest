@@ -1,0 +1,5 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+yfinance==0.2.61
+pydantic==2.11.4
+curl_cffi==0.10.0
